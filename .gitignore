@@ -65,7 +65,6 @@ coverage.xml
 # Docker
 *.log
 docker-compose*.yml
-Dockerfile*
 
 # VS Code
 .vscode/
