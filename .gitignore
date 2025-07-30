@@ -75,7 +75,3 @@ docker-compose*.yml
 # Windows
 Thumbs.db
 Desktop.ini
-
-# Test files
-/test_files/*.csv
-/test_files/*.json

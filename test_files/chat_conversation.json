@@ -1,0 +1,142 @@
+[
+  {
+    "id": "msg_001",
+    "sender": "alice",
+    "message": "Hey everyone! How's the project going?",
+    "timestamp": "2024-07-29T09:15:23Z",
+    "channel": "general"
+  },
+  {
+    "id": "msg_002",
+    "sender": "bob",
+    "message": "Going great! Just finished the user authentication module.",
+    "timestamp": "2024-07-29T09:16:45Z",
+    "channel": "general"
+  },
+  {
+    "id": "msg_003",
+    "sender": "charlie",
+    "message": "Awesome work Bob! I'm working on the API endpoints now.",
+    "timestamp": "2024-07-29T09:18:12Z",
+    "channel": "general"
+  },
+  {
+    "id": "msg_004",
+    "sender": "alice",
+    "message": "Perfect timing! I need to integrate the frontend with those APIs.",
+    "timestamp": "2024-07-29T09:19:34Z",
+    "channel": "general"
+  },
+  {
+    "id": "msg_005",
+    "sender": "david",
+    "message": "Hey team, can we schedule a quick standup for tomorrow?",
+    "timestamp": "2024-07-29T09:21:56Z",
+    "channel": "general"
+  },
+  {
+    "id": "msg_006",
+    "sender": "bob",
+    "message": "Sure! What time works for everyone?",
+    "timestamp": "2024-07-29T09:22:18Z",
+    "channel": "general"
+  },
+  {
+    "id": "msg_007",
+    "sender": "alice",
+    "message": "I'm free after 10 AM",
+    "timestamp": "2024-07-29T09:23:45Z",
+    "channel": "general"
+  },
+  {
+    "id": "msg_008",
+    "sender": "charlie",
+    "message": "10:30 AM works for me too",
+    "timestamp": "2024-07-29T09:24:12Z",
+    "channel": "general"
+  },
+  {
+    "id": "msg_009",
+    "sender": "david",
+    "message": "Great! Let's do 10:30 AM then. I'll send out the calendar invite.",
+    "timestamp": "2024-07-29T09:25:33Z",
+    "channel": "general"
+  },
+  {
+    "id": "msg_010",
+    "sender": "eve",
+    "message": "Sorry I'm late to the conversation! Sounds good to me.",
+    "timestamp": "2024-07-29T09:28:47Z",
+    "channel": "general"
+  },
+  {
+    "id": "msg_011",
+    "sender": "alice",
+    "message": "No worries Eve! We were just planning tomorrow's standup.",
+    "timestamp": "2024-07-29T09:29:15Z",
+    "channel": "general"
+  },
+  {
+    "id": "msg_012",
+    "sender": "bob",
+    "message": "By the way, I found a bug in the login flow. Creating a ticket now.",
+    "timestamp": "2024-07-29T09:31:22Z",
+    "channel": "general"
+  },
+  {
+    "id": "msg_013",
+    "sender": "charlie",
+    "message": "Oh no! Is it blocking anything critical?",
+    "timestamp": "2024-07-29T09:32:45Z",
+    "channel": "general"
+  },
+  {
+    "id": "msg_014",
+    "sender": "bob",
+    "message": "Not really, it's just a minor UI issue with error messages. Should be quick to fix.",
+    "timestamp": "2024-07-29T09:33:28Z",
+    "channel": "general"
+  },
+  {
+    "id": "msg_015",
+    "sender": "david",
+    "message": "Thanks for catching that Bob! Let me know if you need any help.",
+    "timestamp": "2024-07-29T09:34:56Z",
+    "channel": "general"
+  },
+  {
+    "id": "msg_016",
+    "sender": "eve",
+    "message": "I can take a look at the UI issue if you want Bob, I'm working on styling right now anyway.",
+    "timestamp": "2024-07-29T09:36:18Z",
+    "channel": "general"
+  },
+  {
+    "id": "msg_017",
+    "sender": "bob",
+    "message": "That would be amazing Eve! I'll assign the ticket to you.",
+    "timestamp": "2024-07-29T09:37:42Z",
+    "channel": "general"
+  },
+  {
+    "id": "msg_018",
+    "sender": "alice",
+    "message": "Love seeing the teamwork! 🚀",
+    "timestamp": "2024-07-29T09:38:15Z",
+    "channel": "general"
+  },
+  {
+    "id": "msg_019",
+    "sender": "charlie",
+    "message": "Same here! We're really crushing this sprint.",
+    "timestamp": "2024-07-29T09:39:33Z",
+    "channel": "general"
+  },
+  {
+    "id": "msg_020",
+    "sender": "david",
+    "message": "Alright team, let's keep up the momentum! See you all tomorrow at 10:30.",
+    "timestamp": "2024-07-29T09:41:22Z",
+    "channel": "general"
+  }
+]

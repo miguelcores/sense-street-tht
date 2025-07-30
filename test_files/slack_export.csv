@@ -1,0 +1,28 @@
+id,sender,message,timestamp,channel,thread_id,reply_count
+msg_001,alice,"Good morning team! Ready for another productive day?",2024-07-29T08:00:00Z,general,,0
+msg_002,bob,"Morning Alice! Just finished reviewing the code from yesterday",2024-07-29T08:02:15Z,general,,0
+msg_003,charlie,"Hey everyone! I pushed the new feature branch last night",2024-07-29T08:03:30Z,general,,0
+msg_004,diana,"Great work Charlie! I'll review it after our morning standup",2024-07-29T08:04:45Z,general,,0
+msg_005,alice,"Speaking of standup, should we move it to 9:15 today? I have a client call at 9:30",2024-07-29T08:05:22Z,general,msg_001,3
+msg_006,bob,"Works for me!",2024-07-29T08:05:45Z,general,msg_001,3
+msg_007,charlie,"Perfect, see you at 9:15",2024-07-29T08:06:12Z,general,msg_001,3
+msg_008,diana,"Sounds good 👍",2024-07-29T08:06:33Z,general,msg_001,3
+msg_009,eve,"Sorry I'm late to the party! 9:15 works for me too",2024-07-29T08:10:18Z,general,,0
+msg_010,alice,"No worries Eve! We were just confirming the standup time",2024-07-29T08:11:22Z,general,,0
+msg_011,frank,"Has anyone seen the latest design mockups from the UI team?",2024-07-29T08:15:33Z,general,,0
+msg_012,diana,"Yes! They look amazing. Much cleaner than the previous version",2024-07-29T08:16:45Z,general,,0
+msg_013,charlie,"Agreed! The new color scheme is much more professional",2024-07-29T08:17:18Z,general,,0
+msg_014,bob,"I love the new navigation layout. Much more intuitive",2024-07-29T08:18:22Z,general,,0
+msg_015,alice,"The UI team really outdid themselves this time",2024-07-29T08:19:15Z,general,,0
+msg_016,eve,"Can't wait to start implementing these designs!",2024-07-29T08:20:33Z,general,,0
+msg_017,frank,"I'll start working on the responsive breakpoints today",2024-07-29T08:21:45Z,general,,0
+msg_018,diana,"Perfect! I'll handle the component library updates",2024-07-29T08:22:18Z,general,,0
+msg_019,charlie,"And I'll focus on the backend API changes needed for the new features",2024-07-29T08:23:22Z,general,,0
+msg_020,bob,"This is going to be our best release yet!",2024-07-29T08:24:45Z,general,,0
+msg_021,alice,"Absolutely! Great teamwork everyone 🎉",2024-07-29T08:25:18Z,general,,0
+msg_022,eve,"Question: should we update the documentation before or after implementing?",2024-07-29T08:30:22Z,general,,0
+msg_023,frank,"I think we should update it as we go, that way nothing gets forgotten",2024-07-29T08:31:15Z,general,,0
+msg_024,diana,"Good point Frank. I'll create a documentation checklist",2024-07-29T08:32:33Z,general,,0
+msg_025,charlie,"Thanks Diana! That'll help keep us organized",2024-07-29T08:33:45Z,general,,0
+msg_026,bob,"Alright team, see you all at standup in 45 minutes!",2024-07-29T08:35:18Z,general,,0
+msg_027,alice,"See you then! 🚀",2024-07-29T08:35:45Z,general,,0
